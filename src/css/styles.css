@@ -1,7 +1,7 @@
-@import url('./1-gallery.css');
-@import url('./2-form.css');
+@import url('/1-gallery.css');
+@import url('/2-form.css');
 
-/* .main-menu {
+.main-menu {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -47,4 +47,4 @@
 .back-link:hover {
   background: #37afb1;
   transform: translateY(-2px) scale(1.03);
-} */
+}
